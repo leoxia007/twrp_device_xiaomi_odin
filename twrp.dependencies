@@ -7,8 +7,8 @@
   },
   {
     "remote": "github",
-    "repository": "nebrassy/kernel_xiaomi_sm8350",
+    "repository": "leoxia007/kernel_xiaomi_odin",
     "target_path": "kernel/xiaomi/odin",
-    "branch": "odin-11"
+    "branch": "lineage-19.1"
   }
 ]
